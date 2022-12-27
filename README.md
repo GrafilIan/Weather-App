@@ -6,6 +6,15 @@ You may download the Zip file of this App then Extract.
 Process to Run the Weather App Code
   1. Open Vs Code
   2. Run the Command "npm start"
+  NOTE: When this statements:
+     > weatherapp@1.0.0 start
+     > node src/app.js       
+
+     Server is up and running on port:  3000
+     
+     Appeared to the terminal, proceed to step 3.
+
+
   3. Type the given port into your browser "localhost:3000"
   
   If problems occur, this procedure may help to run the code.
