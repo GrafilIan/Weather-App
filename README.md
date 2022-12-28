@@ -17,8 +17,10 @@ Process to Run the Weather App Code
 
   3. Type the given port into your browser "localhost:3000"
   
-  If problems occur, this procedure may help to run the code.
-  *If error occured after typing the "npm start", try to delete sa node modules and package-lock files.
-  *Then type "npm i" in the terminal.
-  *The deleted files should be reinstalled again.
-  After that you may now use the App.
+  If error occured. Do this:
+
+1. Delete the package-lock.json and node_modules
+2. Reinstall this files by typing "npm i" on the terminal.
+3. After that, try typing "npm start"
+4. If the code gives you the localhost port, run it now in the browser typing "localhost: 3000"
+NOTE: Make sure that there is no existing port like this in the browser.
